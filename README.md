@@ -1,15 +1,15 @@
 
-
-<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
+<p align="center">
+<g-emoji class="g-emoji" alias="rocket">🚀</g-emoji>
 Tecnologias
 </a></h1>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">
-<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
+<g-emoji class="g-emoji" alias="computer">💻</g-emoji>
 Projeto
 </a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<hr>
+</p><hr>
   
 <img alt="TecBlog" src="https://ik.imagekit.io/atnyozbx9v/Tecblog_yLsnjECaw.jpg"> 
 
