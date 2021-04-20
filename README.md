@@ -18,7 +18,8 @@ Projeto
 - CSS3<br>
 
 ### 💻 PROJETO
+<hr>
 
-Projeto TecBlog (Blog de tecnologia), ministrado pelo professor Jamilton Damacesno. <hr>
+Projeto TecBlog (Blog de tecnologia), ministrado pelo professor Jamilton Damacesno. 
 
 
