@@ -8,7 +8,6 @@ Tecnologias
 <g-emoji class="g-emoji" alias="computer">💻</g-emoji>
 Projeto
 </a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p><hr>
   
 <img alt="TecBlog" src="https://ik.imagekit.io/atnyozbx9v/Tecblog_yLsnjECaw.jpg"> 
