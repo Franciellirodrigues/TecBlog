@@ -5,7 +5,7 @@ Tecnologias
 </a></h1>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">
-<g-emoji class="g-emoji" alias="computer">💻</g-emoji>
+<g-emoji class="g-emoji" alias="computer">🖥️</g-emoji>
 Projeto
 </a>
 </p><hr>
