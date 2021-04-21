@@ -21,7 +21,7 @@ Projeto
 <hr>
 
 Projeto TecBlog (Blog de tecnologia), ministrado pelo professor Jamilton Damacesno. 
-<br><br><br>
+<br><br><br><br>
 <p align="center">
 Desenvolvido com 💜 por Francielli Rodrigues.
 </p>
